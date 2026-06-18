@@ -1,8 +1,8 @@
-# Accreva architecture notes
+# ACCREVA architecture notes
 
 This repository explains selected design decisions without publishing product source code, deployment details, or customer information.
 
-Accreva develops accounting and ERP software with a layered application architecture. The web client calls an API. Domain services enforce business rules. Repositories own database queries. Agent tooling uses approved application interfaces instead of direct database access.
+ACCREVA develops accounting and business operations software with a layered application architecture. The web client calls an API. Domain services enforce business rules. Repositories own database queries. Agent tooling uses approved application interfaces instead of direct database access.
 
 ## Published notes
 

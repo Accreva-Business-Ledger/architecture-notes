@@ -1,6 +1,6 @@
 # Accounting integrity
 
-Accreva treats accounting rules as application and database invariants.
+ACCREVA treats accounting rules as application and database invariants.
 
 ## Journal entries
 
